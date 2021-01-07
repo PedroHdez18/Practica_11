@@ -70,7 +70,7 @@ class Fecha{
 
 }
 
-    Fecha.hoy(21, 12, 2020);
+    Fecha hoy(21, 12, 2020);
 
     bool bisiesto = hoy.isBisiesto()
 
